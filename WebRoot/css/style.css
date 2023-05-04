@@ -236,6 +236,8 @@ section {
   align-items: center;
   flex-wrap: wrap;
   gap: 2rem;
+  min-height: 50rem;
+  padding: 2rem 0;
 }
 .home .slide .image {
   flex: 1 1 42rem;
@@ -321,4 +323,4 @@ section {
   }
 }
 
-/*# sourceMappingURL=style.scss.map */
+/*# sourceMappingURL=style.css.map */
