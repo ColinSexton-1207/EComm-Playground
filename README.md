@@ -33,7 +33,7 @@ PAGINATION_LIMIT = 8
 JWT_SECRET & PAGINATION_LIMIT can be changed to user defined values
 
 ### NPM Packages
-- [Express](https://www.npmjs.com/package/express)]
+- [Express](https://www.npmjs.com/package/express)
 - [Express Async Handler](https://www.npmjs.com/package/express-async-handler)
 - [BCrypt](https://www.npmjs.com/package/bcryptjs)
 - [DotEnv](https://www.npmjs.com/package/dotenv)
@@ -48,7 +48,7 @@ JWT_SECRET & PAGINATION_LIMIT can be changed to user defined values
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 - [Redux](https://www.npmjs.com/package/redux)
 - [React Redux](https://www.npmjs.com/package/react-redux)
-- [Redux Thunk](https://www.npmjs.com/package/redux-thunk)\
+- [Redux Thunk](https://www.npmjs.com/package/redux-thunk)
 - [Redux Devtools](https://www.npmjs.com/package/redux-devtools-extension)
 - [React PayPal](https://www.npmjs.com/package/react-paypal-button-v2)
 - [React Helmet](https://www.npmjs.com/package/react-helmet)
